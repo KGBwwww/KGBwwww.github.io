@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo-imp:/Users/kgb/KGB777/themes/hugo-theme-memento-main/assets/js/ephemera.js
+  // ns-hugo-imp:/Users/kgb/KGB777/themes/hugo-theme-memento/assets/js/ephemera.js
   function initEphemeraGallery(root = document) {
     const galleries = [];
     if (root.matches?.("[data-ephemera-gallery]")) {
@@ -119,7 +119,7 @@
     initEphemeraViewer();
   }
 
-  // ns-hugo-imp:/Users/kgb/KGB777/themes/hugo-theme-memento-main/assets/js/infinite-scroll.js
+  // ns-hugo-imp:/Users/kgb/KGB777/themes/hugo-theme-memento/assets/js/infinite-scroll.js
   (function() {
     function initInfiniteScroll() {
       var list = document.querySelector("[data-infinite-scroll-list]");
