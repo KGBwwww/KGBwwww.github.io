@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on KGB专属黑客空间</title>
-		<link>https://KGB.blog.github.io/categories/</link>
+		<link>https://kgbwwww.github.io/KGB.blog/categories/</link>
 		<description>Recent content in Categories on KGB专属黑客空间</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -12,6 +12,6 @@
 			<copyright>Copyright © 2026 KGB &amp; MLL</copyright>
 		
 		
-			<atom:link href="https://KGB.blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://kgbwwww.github.io/KGB.blog/categories/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
