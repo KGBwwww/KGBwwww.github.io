@@ -64,7 +64,8 @@ params:
   description: "AI 编译器 / 系统方向的成长日志"
   keywords: ["Hugo", "Blog", "PaperMod", "AI 编译器"]
   defaultTheme: auto
-  ShowShareButtons: true
+  ShowShareButtons: false
+  
   ShowReadingTime: false
   displayFullLangName: true
   ShowPostNavLinks: true
@@ -110,10 +111,6 @@ params:
     - name: 
       url: ""
 
-  editPost:
-    URL: "https://github.com/KGBwwww/KGBwwww.github.io/tree/main/content"
-    Text: "建议修改"
-    appendFilePath: true
 
 
 
