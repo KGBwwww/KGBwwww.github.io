@@ -46,7 +46,7 @@ languages:
           url: about/
           weight: 100
         - name: Archive
-          url: /archive/
+          url: /archives/
           weight: 3
 
 
