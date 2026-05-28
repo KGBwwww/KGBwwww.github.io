@@ -12,16 +12,8 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2026 KGB &amp;amp; MLL</copyright>
-    <lastBuildDate>Thu, 28 May 2026 13:04:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:20:52 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 May 2026 13:04:41 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;你好，我是KGB
-这里是我的个人博客&lt;/p&gt;</description>
-    </item>
     <item>
       <title>个人博客使用心得</title>
       <link>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</link>
@@ -43,17 +35,21 @@
     </item>
     <item>
       <title>胶片相机使用心得</title>
-      <link>http://localhost:1313/posts/about/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97_%E5%89%AF%E6%9C%AC/</link>
-      <pubDate>Wed, 27 May 2026 20:49:52 +0800</pubDate>
-      <guid>http://localhost:1313/posts/about/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97_%E5%89%AF%E6%9C%AC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>胶片相机使用心得</title>
       <link>http://localhost:1313/posts/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</link>
       <pubDate>Wed, 27 May 2026 20:49:52 +0800</pubDate>
       <guid>http://localhost:1313/posts/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;你好，我是KGB
+这里是我的个人博客
+希望可以成为摄影师，但是不要太出名
+喜欢星空/星野/雪山/延时/胶片摄影（非严谨分类）
+我会在这里分享风光摄影/心得/方法，还有胶片摄影以及冲洗心得（才刚开始）&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
