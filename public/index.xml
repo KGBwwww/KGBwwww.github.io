@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>KGB专属黑客空间</title>
+    <title>KGB黑客空间/无往无为，知止不殆</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on KGB专属黑客空间</description>
+    <description>Recent content on KGB黑客空间/无往无为，知止不殆</description>
     <image>
-      <title>KGB专属黑客空间</title>
+      <title>KGB黑客空间/无往无为，知止不殆</title>
       <url>http://localhost:1313/images/papermod-cover.png</url>
       <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2026 KGB &amp;amp; MLL</copyright>
-    <lastBuildDate>Thu, 28 May 2026 10:20:52 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:04:41 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 May 2026 13:04:41 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;你好，我是KGB
+这里是我的个人博客&lt;/p&gt;</description>
+    </item>
     <item>
       <title>个人博客使用心得</title>
       <link>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</link>

@@ -1,6 +1,6 @@
 baseURL: https://kgbwwww.github.io/
 locale: zh-cn
-title: KGB专属黑客空间
+title: KGB个人博客
 theme : "PaperMod"
 copyright: "Copyright © 2026 KGB & MLL"
 
@@ -59,7 +59,7 @@ params:
   keywords: ["Hugo", "Blog", "PaperMod", "AI 编译器"]
   defaultTheme: auto
   ShowShareButtons: true
-  ShowReadingTime: true
+  ShowReadingTime: false
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
