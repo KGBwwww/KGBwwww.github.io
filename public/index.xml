@@ -4,6 +4,11 @@
     <title>KGB专属黑客空间</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on KGB专属黑客空间</description>
+    <image>
+      <title>KGB专属黑客空间</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2026 KGB &amp;amp; MLL</copyright>
@@ -25,8 +30,15 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 27 May 2026 20:49:52 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;无意中发现了一个博主自己的网页，遂非常羡慕，我想啊我以后可能是摄影师，有一个自己的网页应该会很棒。于是从脑子里创建构想到实施仅用了1s，不过最大的吗问题是我没有代码基础，在我建立好静态网页后遇到了第一个难题。关于github创建库以及如何把本地和线上链接起来并生成网页成了目前最大的问题，我看不懂代码，跟着一条一条去试。还是不行。心有余而力不足啊。
+      <description>&lt;p&gt;无意中发现了一个博主自己的网页，遂非常羡慕，我想啊我以后可能是摄影师，有一个自己的网页应该会很棒。于是从脑子里创建构想到实施仅用了1s，不过最大的问题是我没有代码基础，在我建立好静态网页后遇到了第一个难题。关于github创建库以及如何把本地和线上链接起来并生成网页成了目前最大的问题，我看不懂代码，跟着一条一条去试。还是不行。心有余而力不足啊。
 然后我想到了求助，在微信问朋友有没有会hugo搭建的朋友，然后遇到了对本站搭建出力最大的MLL老师&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>胶片相机使用心得</title>
+      <link>http://localhost:1313/posts/about/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97_%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Wed, 27 May 2026 20:49:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/about/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97_%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
     </item>
     <item>
       <title>胶片相机使用心得</title>
