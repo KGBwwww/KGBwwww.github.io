@@ -74,7 +74,7 @@ params:
     enabled: true
     title: "欢迎来到我的博客"
     subtitle: "日记 | 摄影 | 旅行"
-    imageUrl: "images/avatar4.jpg"
+    imageUrl: "images/avatar.jpg"
     imageTitle: "头像"
     buttons:
       - name: 博客文章
