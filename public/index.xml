@@ -51,5 +51,12 @@
 &lt;p&gt;喜欢星空/星野/雪山/延时/胶片摄影（非严谨分类）&lt;br&gt;
 我会在这里分享风光摄影/心得/方法，还有胶片摄影以及冲洗心得（我还是新手请多指教）&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

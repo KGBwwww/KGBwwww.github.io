@@ -1,7 +1,7 @@
 baseURL: https://kgbwwww.github.io/
 locale: zh-cn
 title: KGB个人博客
-theme : "PaperMod"
+theme: [PaperMod, hugo-shortcode-gallery]
 copyright: "Copyright © 2026 KGB & MLL"
 
 enableInlineShortcodes: true
@@ -75,7 +75,13 @@ params:
   ShowPageNums: true
   ShowToc: true
   images: ["images/papermod-cover.png"]
-
+  assets:
+    favicon : "images/avatar2.jpg"        # 浏览器标签图标
+    favicon16x16 : "images/avatar2.jpg"   # 浏览器标签图标
+    favicon32x32 : "images/avatar2.jpg"   # 浏览器标签图标
+    disableHLJS : true  # 不使用highlight.js
+  galleryLoadJQuery : true
+  
   profileMode:
     enabled: true
     title: "欢迎来到我的博客"
@@ -109,8 +115,7 @@ params:
     Text: "建议修改"
     appendFilePath: true
 
-  assets:
-    disableHLJS: true
+
 
 markup:
   goldmark:
@@ -124,3 +129,7 @@ services:
     disableInlineCSS: true
   x:
     disableInlineCSS: true
+    
+  cover:
+    hiddenInList: false # 在文章列表和首页显示封面
+    hiddenInSingle: true # 在单页隐藏封面

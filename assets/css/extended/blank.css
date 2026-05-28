@@ -1,0 +1,63 @@
+/* === 文章列表左右布局样式 === */
+.post-entry {
+    display: flex;
+    gap: var(--gap);
+    align-items: stretch;
+}
+
+/* 左侧内容区域 */
+.post-entry .entry-content-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+/* 右侧图片区域 */
+.post-entry .entry-cover-wrapper {
+    flex-shrink: 0;
+    width: 225px;
+}
+
+/* 隐藏无图片容器 */
+.post-entry .entry-cover-wrapper:empty,
+.post-entry .entry-cover-wrapper:not(:has(.entry-cover)) {
+    display: none;
+}
+
+/* 图片样式 - 统一宽高比 */
+.post-entry .entry-cover {
+    margin-bottom: 0;
+    aspect-ratio: 2 / 1;
+    overflow: hidden;
+}
+
+.post-entry .entry-cover img,
+.post-entry .entry-cover picture,
+.post-entry .entry-cover picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: var(--radius);
+}
+
+/* 内容间距 */
+.post-entry .entry-header {
+    margin-bottom: 8px;
+}
+
+.post-entry .entry-content {
+    margin: 0 0 8px 0;
+}
+
+.post-entry .entry-footer {
+    margin-top: auto;
+}
+
+/* 移动端 */
+@media (max-width: 640px) {
+    /* 移动端隐藏封面图片 */
+    .post-entry .entry-cover-wrapper {
+        display: none;
+    }
+}
