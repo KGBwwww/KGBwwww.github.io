@@ -16,9 +16,9 @@
     <atom:link href="https://kgbwwww.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>入手了我人生中第一台胶片相机 - 尼康fm2</title>
-      <link>https://kgbwwww.github.io/posts/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</link>
+      <link>https://kgbwwww.github.io/posts/%E5%85%A5%E6%89%8B%E4%BA%86%E6%88%91%E4%BA%BA%E7%94%9F%E4%B8%AD%E7%AC%AC%E4%B8%80%E5%8F%B0%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA---%E5%B0%BC%E5%BA%B7fm2/</link>
       <pubDate>Fri, 29 May 2026 10:49:52 +0800</pubDate>
-      <guid>https://kgbwwww.github.io/posts/%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://kgbwwww.github.io/posts/%E5%85%A5%E6%89%8B%E4%BA%86%E6%88%91%E4%BA%BA%E7%94%9F%E4%B8%AD%E7%AC%AC%E4%B8%80%E5%8F%B0%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA---%E5%B0%BC%E5%BA%B7fm2/</guid>
       <description>&lt;img src=&#34;https://kgbwwww.github.io/images/IMG_1044.jpg&#34; alt=&#34;Image Alt Text&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
 &lt;p&gt;被胶片相机吸引是在一年前
 在网上刷到唐僧用哈苏拍摄胶片长曝光，一下被腰平取景框和胶片的质感所吸引 &lt;br&gt;
@@ -47,10 +47,14 @@
 1.时间码，我不知道怎么一键生成时间码，我都是手动更高，有点麻烦
 2.主题顶部的分类栏效果没有实现，想要那种效果
 3.画廊分类，用来存放我的照片以及照片说明（包括拍摄时间地点参数以及拍摄的想法和心情）
-4.待补充&lt;/p&gt;</description>
+4.待补充&lt;/p&gt;
+&lt;p&gt;以上全部都解决了   在mll的帮助下&lt;br&gt;
+现在有新的问题了&lt;/p&gt;
+&lt;p&gt;添加相册 并去掉下面那根线
+自定义颜色 背景+ 毛玻璃效果 更改链接图片 增加链接 增加tags 学会怎么做tags实现目录功能&lt;/p&gt;</description>
     </item>
     <item>
-      <title>个人博客第一篇文章</title>
+      <title>纪念建站发布的第一篇文章</title>
       <link>https://kgbwwww.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 27 May 2026 20:49:52 +0800</pubDate>
       <guid>https://kgbwwww.github.io/posts/my-first-post/</guid>
