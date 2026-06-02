@@ -1,6 +1,6 @@
 baseURL: https://kgbwwww.github.io/
 locale: zh-cn
-title: KGB个人博客
+title: KGB‘s Blog
 theme: [PaperMod, hugo-shortcode-gallery]
 copyright: "Copyright © 2026 KGB & MLL"
 
