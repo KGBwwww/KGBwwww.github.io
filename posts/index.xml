@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on KGB个人博客</title>
+    <title>Posts on KGB‘s Blog</title>
     <link>https://kgbwwww.github.io/posts/</link>
-    <description>Recent content in Posts on KGB个人博客</description>
+    <description>Recent content in Posts on KGB‘s Blog</description>
     <image>
-      <title>KGB个人博客</title>
+      <title>KGB‘s Blog</title>
       <url>https://kgbwwww.github.io/images/papermod-cover.png</url>
       <link>https://kgbwwww.github.io/images/papermod-cover.png</link>
     </image>
@@ -19,7 +19,7 @@
       <link>https://kgbwwww.github.io/posts/about-film/</link>
       <pubDate>Mon, 01 Jun 2026 14:20:52 +0800</pubDate>
       <guid>https://kgbwwww.github.io/posts/about-film/</guid>
-      <description>&lt;p&gt;#清单&lt;/p&gt;
+      <description>&lt;h2 id=&#34;清单&#34;&gt;清单&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;主体：40x40x5欧标铝型材，长度70cm（顶部螺孔M8）&lt;/li&gt;
 &lt;li&gt;底板：打标机平台铝板，28x32cm，厚度8.2mm&lt;/li&gt;
