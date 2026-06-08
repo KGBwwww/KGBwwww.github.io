@@ -4,10 +4,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-03T09:44:26+08:00</lastmod>
+    <lastmod>2026-06-08T11:19:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-03T09:44:26+08:00</lastmod>
+    <lastmod>2026-06-08T11:19:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E8%83%B6%E7%89%87%E5%86%B2%E6%B4%97%E7%9A%84%E6%84%9F%E6%83%B3/</loc>
+    <lastmod>2026-06-08T11:19:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/%E8%83%B6%E7%89%87%E7%9A%84%E5%86%B2%E6%B4%97%E5%92%8C%E7%BF%BB%E6%8B%8D/</loc>
     <lastmod>2026-06-03T09:44:26+08:00</lastmod>
