@@ -89,8 +89,8 @@ params:
   
   profileMode:
     enabled: true
-    title: "无往无为 知止不殆"
-    subtitle: "日记 | 摄影 | 旅行"
+    title: "宇宙辽阔 光阴漫长"
+    subtitle: "摄影 | 旅行 | 日记"
     imageUrl: "images/avatar.jpg"
     imageTitle: "头像"
     buttons:
